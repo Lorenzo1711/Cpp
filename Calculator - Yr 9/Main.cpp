@@ -6,7 +6,7 @@ int main()
     char op;
     float num1, num2;
 
-    cout << "Enter operator either + or - or * or /: ";
+    cout << "Made by Lorenzo#1711. Enter operator either + or - or * or /: ";
     cin >> op;
 
     cout << "Enter two numbers: ";
@@ -22,3 +22,18 @@ int main()
             cout << num1-num2;
             break;
 
+                   case '*':
+            cout << num1*num2;
+            break;
+
+        case '/':
+            cout << num1/num2;
+            break;
+
+        default:
+            cout << "Error!";
+            break;
+    }
+
+    return 0;
+}
