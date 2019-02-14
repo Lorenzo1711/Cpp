@@ -1,2 +1,2 @@
 # Cpp
-All programs written in the programming language Cpp (C++)
+All Cpp programs (C++) made at Fortismere Seconday School
